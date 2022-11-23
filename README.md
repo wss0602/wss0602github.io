@@ -1,2 +1,2 @@
-# wss0602github.io
+# wss0602.github.io
 meu web site
